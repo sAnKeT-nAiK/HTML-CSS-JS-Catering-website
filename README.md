@@ -1,2 +1,3 @@
 # HTML-CSS-JS-Catering-website
-A simple single page template.
+ It is a simple html bootstrap single page website.
+ 
